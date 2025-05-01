@@ -1,4 +1,4 @@
-# Pexels API Project (Student Version)
+# Pexels API Project
 
 ## Project Overview
 In this project, you’ll:
