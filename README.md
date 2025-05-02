@@ -7,7 +7,7 @@ In this project, you’ll:
 - Hide sensitive data using `.gitignore`
 
 ## Instructions
-1. Get a free API key from [Pexels](https://www.pexels.com/api){:target="_blank"}.
+1. Get a free API key from [Pexels](https://www.pexels.com/api{:target="_blank"}).
 2. Create a `.env` file and store your key like this:
    ```
    PEXELS_API_KEY=your_key_here
